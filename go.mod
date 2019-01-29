@@ -1,1 +1,1 @@
-module github.com/ellenkorbes/bread
+module github.com/ellenkorbes/bread/v2
